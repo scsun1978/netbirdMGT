@@ -1,0 +1,10 @@
+import { Module } from '@nestjs/common';
+import { NetworksController } from './networks.controller';
+import { NetworksService } from './networks.service';
+
+@Module({
+  controllers: [NetworksController],
+  providers: [NetworksService],
+  exports: [NetworksService],
+})
+export class NetworksModule {}
