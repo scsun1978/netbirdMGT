@@ -4,9 +4,6 @@
 
 **测试时间**: 2026-01-09
 **服务URL**: https://netbird.scsun.qzz.io
-
-Token:nbp_F9CuUREK2wo5POWkslQ6rNHmhpAmpm02JnH1
-
 **Netbird版本**: 0.61.0
 **测试类型**: 功能完整性、性能、安全性测试
 **测试状态**: ✅ **全部通过**
