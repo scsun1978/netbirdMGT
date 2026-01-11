@@ -96,7 +96,7 @@ export function AlertTrends({ data }: AlertTrendsProps) {
           itemStyle: { color: '#3b82f6' },
         },
       ],
-    };
+    } as any;
   }, [data, isDark]);
 
   return (
